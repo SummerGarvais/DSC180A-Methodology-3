@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Summer Garvais
-kgarvais@ucsd.edu
+Summer Garvais and Munachimso Ndubisi
